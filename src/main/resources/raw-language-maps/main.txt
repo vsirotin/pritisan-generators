@@ -1,0 +1,413 @@
+de-DE
+{
+"capture": "Datenerfassung",
+ "edit": "Datenänderung",
+ "analysis": "Daten-Analyse",
+ "import_export": "Import/Export von Daten",
+ "settings": "Einstellungen",
+ "info": "Info"
+}
+
+en-EN
+{
+  "capture": "Data capture",
+  "edit": "Edit/Update of data",
+  "analysis": "Data analysis",
+  "import_export": "Data Import/Export",
+  "settings": "Settings",
+  "info": "Info"
+}
+
+ar-SA
+{
+  "capture": "التقاط البيانات",
+  "edit": "تحرير البيانات",
+  "analysis": "تحليل البيانات",
+  "import_export": "استيراد/تصدير البيانات",
+  "settings": "الإعدادات",
+  "info": "معلومات"
+}
+
+bn-BD
+{
+  "capture": "ডেটা সংগ্রহ",
+  "edit": "ডেটা সম্পাদনা",
+  "analysis": "ডেটা বিশ্লেষণ",
+  "import_export": "ডেটা আমদানি/রফতানি",
+  "settings": "সেটিংস",
+  "info": "তথ্য"
+}
+
+bg-BG
+{
+  "capture": "Захващане на данни",
+  "edit": "Редактиране на данни",
+  "analysis": "Анализ на данните",
+  "import_export": "Импорт/Експорт на данни",
+  "settings": "Настройки",
+  "info": "Информация"
+}
+
+ca-ES
+{
+  "capture": "Captura de dades",
+  "edit": "Edició de dades",
+  "analysis": "Anàlisi de dades",
+  "import_export": "Importació/Exportació de dades",
+  "settings": "Configuració",
+  "info": "Informació"
+}
+
+zh-CN
+{
+  "capture": "数据捕获",
+  "edit": "编辑数据",
+  "analysis": "数据分析",
+  "import_export": "数据导入/导出",
+  "settings": "设置",
+  "info": "信息"
+}
+
+hr-HR
+{
+  "capture": "Bilježenje podataka",
+  "edit": "Uređivanje podataka",
+  "analysis": "Analiza podataka",
+  "import_export": "Uvoz/Izvoz podataka",
+  "settings": "Postavke",
+  "info": "Informacije"
+}
+
+cs-CZ
+{
+  "capture": "Zachytávání dat",
+  "edit": "Editace dat",
+  "analysis": "Analýza dat",
+  "import_export": "Import/Export dat",
+  "settings": "Nastavení",
+  "info": "Informace"
+}
+
+da-DK
+{
+  "capture": "Datafangst",
+  "edit": "Redigering af data",
+  "analysis": "Dataanalyse",
+  "import_export": "Import/Eksport af data",
+  "settings": "Indstillinger",
+  "info": "Info"
+}
+
+nl-NL
+{
+  "capture": "Gegevens vastleggen",
+  "edit": "Gegevens bewerken",
+  "analysis": "Gegevensanalyse",
+  "import_export": "Gegevens importeren/exporteren",
+  "settings": "Instellingen",
+  "info": "Informatie"
+}
+
+en-US
+{
+  "capture": "Data capture",
+  "edit": "Edit/Update of data",
+  "analysis": "Data analysis",
+  "import_export": "Data Import/Export",
+  "settings": "Settings",
+  "info": "Info"
+}
+
+et-EE
+{
+  "capture": "Andmete kogumine",
+  "edit": "Andmete muutmine",
+  "analysis": "Andmete analüüs",
+  "import_export": "Andmete importimine/eksportimine",
+  "settings": "Seaded",
+  "info": "Info"
+}
+
+fi-FI
+{
+  "capture": "Tietojen kerääminen",
+  "edit": "Tietojen muokkaaminen",
+  "analysis": "Tietojen analysointi",
+  "import_export": "Tietojen tuonti/vienti",
+  "settings": "Asetukset",
+  "info": "Tiedot"
+}
+
+fr-FR
+{
+  "capture": "Capture de données",
+  "edit": "Édition de données",
+  "analysis": "Analyse de données",
+  "import_export": "Importation/Exportation de données",
+  "settings": "Paramètres",
+  "info": "Infos"
+}
+
+el-GR
+{
+  "capture": "Καταγραφή δεδομένω
+
+ν",
+  "edit": "Επεξεργασία δεδομένων",
+  "analysis": "Ανάλυση δεδομένων",
+  "import_export": "Εισαγωγή/Εξαγωγή δεδομένων",
+  "settings": "Ρυθμίσεις",
+  "info": "Πληροφορίες"
+}
+
+he-IL
+{
+  "capture": "לכידת נתונים",
+  "edit": "עריכת נתונים",
+  "analysis": "ניתוח נתונים",
+  "import_export": "יבוא/יצוא נתונים",
+  "settings": "הגדרות",
+  "info": "מידע"
+}
+
+hu-HU
+{
+  "capture": "Adatgyűjtés",
+  "edit": "Adatok szerkesztése",
+  "analysis": "Adatelemzés",
+  "import_export": "Adat importálása/exportálása",
+  "settings": "Beállítások",
+  "info": "Információ"
+}
+
+id-ID
+{
+  "capture": "Pengumpulan Data",
+  "edit": "Penyuntingan Data",
+  "analysis": "Analisis Data",
+  "import_export": "Impor/Ekspor Data",
+  "settings": "Pengaturan",
+  "info": "Info"
+}
+
+it-IT
+{
+  "capture": "Cattura dati",
+  "edit": "Modifica dei dati",
+  "analysis": "Analisi dati",
+  "import_export": "Importa/Esporta dati",
+  "settings": "Impostazioni",
+  "info": "Informazioni"
+}
+
+ja-JP
+{
+  "capture": "データ収集",
+  "edit": "データ編集",
+  "analysis": "データ解析",
+  "import_export": "データのインポート/エクスポート",
+  "settings": "設定",
+  "info": "情報"
+}
+
+ko-KR
+{
+  "capture": "데이터 캡처",
+  "edit": "데이터 편집",
+  "analysis": "데이터 분석",
+  "import_export": "데이터 가져오기/내보내기",
+  "settings": "설정",
+  "info": "정보"
+}
+
+lv-LV
+{
+  "capture": "Datu iegūšana",
+  "edit": "Datu rediģēšana",
+  "analysis": "Datu analīze",
+  "import_export": "Datu importēšana/eksportēšana",
+  "settings": "Iestatījumi",
+  "info": "Informācija"
+}
+
+lt-LT
+{
+  "capture": "Duomenų surinkimas",
+  "edit": "Duomenų redagavimas",
+  "analysis": "Duomenų analizė",
+  "import_export": "Duomenų importavimas/eksportavimas",
+  "settings": "Nuostatos",
+  "info": "Informacija"
+}
+
+no-NO
+{
+  "capture": "Datafangst",
+  "edit": "Redigering av data",
+  "analysis": "Dataanalyse",
+  "import_export": "Import/Eksport av data",
+  "settings": "Innstillinger",
+  "info": "Info"
+}
+
+nb-NO
+{
+  "capture": "Datafangst",
+  "edit": "Redigering av data",
+  "analysis": "Dataanalyse",
+  "import_export": "Import/Eksport av data",
+  "settings": "Innstillinger",
+  "info": "Info"
+}
+
+fa-IR
+{
+  "capture": "گرفتن داده",
+  "edit": "ویرایش داده",
+  "analysis": "تجزیه و تحلیل داده",
+  "import_export": "واردات/صادرات داده",
+  "settings": "تنظیمات",
+  "info": "اطلاعات"
+}
+
+pl-PL
+{
+  "capture": "Zbieranie danych",
+  "edit": "Edycja danych",
+  "analysis": "Analiza danych",
+  "import_export": "Import/eksport danych",
+
+
+ "settings": "Ustawienia",
+  "info": "Informacje"
+}
+
+pt-PT
+{
+  "capture": "Captura de dados",
+  "edit": "Edição de dados",
+  "analysis": "Análise de dados",
+  "import_export": "Importar/Exportar dados",
+  "settings": "Configurações",
+  "info": "Info"
+}
+
+pa-IN
+{
+  "capture": "ਡਾਟਾ ਕੈਚਰ",
+  "edit": "ਡਾਟਾ ਸੋਧ",
+  "analysis": "ਡਾਟਾ ਵਿਸ਼ਲੇਸ਼ਣ",
+  "import_export": "ਡਾਟਾ ਆਯਾਤ/ਨਿਰਯਾਤ",
+  "settings": "ਸੈਟਿੰਗਜ਼",
+  "info": "ਜਾਣਕਾਰੀ"
+}
+
+ro-RO
+{
+  "capture": "Captură de date",
+  "edit": "Editare date",
+  "analysis": "Analiză de date",
+  "import_export": "Import/Export date",
+  "settings": "Setări",
+  "info": "Informații"
+}
+
+ru-RU
+{
+  "capture": "Сбор данных",
+  "edit": "Редактирование данных",
+  "analysis": "Анализ данных",
+  "import_export": "Импорт/экспорт данных",
+  "settings": "Настройки",
+  "info": "Информация"
+}
+
+sr-RS
+{
+  "capture": "Сакупљање података",
+  "edit": "Уређивање података",
+  "analysis": "Анализа података",
+  "import_export": "Увоз/извоз података",
+  "settings": "Подешавања",
+  "info": "Информације"
+}
+
+sk-SK
+{
+  "capture": "Zachytávanie údajov",
+  "edit": "Upravovanie údajov",
+  "analysis": "Analýza údajov",
+  "import_export": "Import/Export údajov",
+  "settings": "Nastavenia",
+  "info": "Informácie"
+}
+
+sl-SI
+{
+  "capture": "Zajem podatkov",
+  "edit": "Urejanje podatkov",
+  "analysis": "Analiza podatkov",
+  "import_export": "Uvoz/Izvoz podatkov",
+  "settings": "Nastavitve",
+  "info": "Informacije"
+}
+
+es-ES
+{
+  "capture": "Captura de datos",
+  "edit": "Edición de datos",
+  "analysis": "Análisis de datos",
+  "import_export": "Importación/Exportación de datos",
+  "settings": "Ajustes",
+  "info": "Información"
+}
+
+sv-SE
+{
+  "capture": "Datainsamling",
+  "edit": "Redigering av data",
+  "analysis": "Dataanalys",
+  "import_export": "Import/export av data",
+  "settings": "Inställningar",
+  "info": "Info"
+}
+
+th-TH
+{
+  "capture": "การจับข้อมูล",
+  "edit": "การแก้ไขข้อมูล",
+  "analysis": "การวิเคราะห์ข้อมูล",
+  "import_export": "การนำเข้า/การส่งออกข้อมูล",
+  "settings": "การตั้งค่า",
+  "info": "ข้อมูล"
+}
+
+tr-TR
+{
+  "capture": "Veri yakalama",
+  "edit": "Veri düzenleme",
+  "analysis": "Veri analizi",
+  "import_export": "Veri İçe/Dışa Aktarma",
+  "settings": "Ayarlar",
+  "info": "Bilgi"
+}
+
+uk-UA
+{
+  "capture": "Збір даних",
+  "edit": "Редагування даних",
+  "analysis": "Аналіз даних",
+  "import_export": "Імпорт/експорт даних",
+  "settings": "Налаштування",
+  "info": "Інформація"
+}
+
+vi-VN
+{
+  "capture": "Thu thập dữ liệu",
+  "edit": "Chỉnh sửa dữ liệu",
+  "analysis": "Phân tích dữ liệu",
+  "import_export": "Nhập/Xuất dữ liệu",
+  "settings": "Cài đặt",
+  "info": "Thông tin"
+}

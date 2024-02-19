@@ -1,0 +1,116 @@
+ar-SA:
+{"settings": "الإعدادات", "expand_all": "توسيع الكل", "collapse_all": "طي الكل", "language": "اللغة:", "appearance": "المظهر", "set_options_for_appearance": "تعيين خيارات المظهر", "rules": "القواعد", "set_rules": "تعيين القواعد لحذف البيانات تلقائيًا، إلخ."}
+
+bn-BD:
+{"settings": "সেটিংস", "expand_all": "সব প্রসারিত করুন", "collapse_all": "সব কুড়িয়ে দিন", "language": "ভাষা:", "appearance": "উপস্থাপনা", "set_options_for_appearance": "উপস্থাপনা বিকল্পগুলি সেট করুন", "rules": "নিয়ম", "set_rules": "ডেটা স্বয়ংক্রিয়ভাবে মুছে ফেলার নির্দেশিকা সেট করুন, ইত্যাদি।"}
+
+bg-BG:
+{"settings": "Настройки", "expand_all": "Разгърни всичко", "collapse_all": "Свий всичко", "language": "Език:", "appearance": "Изглед", "set_options_for_appearance": "Задайте опции за изглед", "rules": "Правила", "set_rules": "Задайте правила за автоматично изтриване на данни и т.н."}
+
+ca-ES:
+{"settings": "Configuració", "expand_all": "Expandir tot", "collapse_all": "Col·lapsa tot", "language": "Llengua:", "appearance": "Aspecte", "set_options_for_appearance": "Establir opcions d'aparença", "rules": "Regles", "set_rules": "Establiu regles per a l'eliminació automàtica de dades, etc."}
+
+zh-CN:
+{"settings": "设置", "expand_all": "展开全部", "collapse_all": "折叠全部", "language": "语言：", "appearance": "外观", "set_options_for_appearance": "设置外观选项", "rules": "规则", "set_rules": "设置自动删除数据等规则。"}
+
+hr-HR:
+{"settings": "Postavke", "expand_all": "Proširi sve", "collapse_all": "Sakrij sve", "language": "Jezik:", "appearance": "Izgled", "set_options_for_appearance": "Postavite opcije za izgled", "rules": "Pravila", "set_rules": "Postavite pravila za automatsko brisanje podataka itd."}
+
+cs-CZ:
+{"settings": "Nastavení", "expand_all": "Rozbalit vše", "collapse_all": "Sbalit vše", "language": "Jazyk:", "appearance": "Vzhled", "set_options_for_appearance": "Nastavit možnosti vzhledu", "rules": "Pravidla", "set_rules": "Nastavit pravidla pro automatické mazání dat atd."}
+
+da-DK:
+{"settings": "Indstillinger", "expand_all": "Udvid alt", "collapse_all": "Skjul alt", "language": "Sprog:", "appearance": "Udseende", "set_options_for_appearance": "Indstil indstillinger for udseende", "rules": "Regler", "set_rules": "Indstil regler for automatisk sletning af data osv."}
+
+nl-NL:
+{"settings": "Instellingen", "expand_all": "Alles uitvouwen", "collapse_all": "Alles inklappen", "language": "Taal:", "appearance": "Uiterlijk", "set_options_for_appearance": "Opties instellen voor uiterlijk", "rules": "Regels", "set_rules": "Stel regels in voor automatisch gegevens wissen, enz."}
+
+en-US:
+{"settings": "Settings", "expand_all": "Expand All", "collapse_all": "Collapse All", "language": "Language:", "appearance": "Appearance", "set_options_for_appearance": "Set appearance options", "rules": "Rules", "set_rules": "Set rules for automatic data deletion, etc."}
+
+et-EE:
+{"settings": "Sätted", "expand_all": "Laienda kõik", "collapse_all": "Ahenda kõik", "language": "Keel:", "appearance": "Välimus", "set_options_for_appearance": "Määrake välimuse valikud", "rules": "Reeglid", "set_rules": "Määrake reeglid automaatse andmete kustutamise jms jaoks."}
+
+fi-FI:
+{"settings": "Asetukset", "expand_all": "Laajenna kaikki", "collapse_all": "Kutista kaikki", "language": "Kieli:", "appearance": "Ulkoasu", "set_options_for_appearance": "Aseta ulkoasun asetukset", "rules": "Säännöt", "set_rules": "Aseta säännöt automaattista tietojen poistoa varten jne."}
+
+fr-FR:
+{"settings": "Paramètres", "expand_all": "Tout développer", "collapse_all": "Tout réduire", "language": "Langue:", "appearance": "Apparence", "set_options_for_appearance": "Définir les options d'apparence", "rules": "Règles", "set_rules": "Définir les règles pour la suppression automatique des données, etc."}
+
+de-DE:
+{"settings": "Einstellungen", "expand_all": "Alles erweitern", "collapse_all": "Alles reduzieren", "language": "Sprache:", "appearance": "Erscheinungsbild", "set_options_for_appearance": "Erscheinungsoptionen setzen", "rules": "Regeln", "set_rules": "Regeln für automatische Datenlöschung festlegen usw."}
+
+el-GR:
+{"settings": "Ρυθμίσεις", "expand_all": "Επέκταση όλων", "collapse_all": "Σύμπτυξη όλων", "language": "Γλώσσα:", "appearance": "Εμφάνιση", "set_options_for_appearance": "Ορίστε επιλογές εμφάνισης", "rules": "Κανόνες", "set_rules": "Ορίστε κανόνες για την αυτόματη διαγραφή δεδομένων κ.λπ."}
+
+he-IL:
+{"settings": "הגדרות", "expand_all": "הרחב הכול", "collapse_all": "כווץ הכול", "language": "שפה:", "appearance": "מראה", "set_options_for_appearance": "הגדר אפשרויות מראה", "rules": "כללים", "set_rules": "הגדר כללים למחיקת נתונים אוטומטית, וכו'."}
+
+hu-HU:
+{"settings": "Beállítások", "expand_all": "Mindet kinyit", "collapse_all": "Mindet bezár", "language": "Nyelv:", "appearance": "Megjelenés", "set_options_for_appearance": "Megjelenési beállítások beállítása", "rules": "Szabályok", "set_rules": "Szabályok beállítása az automatikus adattörléshez stb."}
+
+id-ID:
+{"settings": "Pengaturan", "expand_all": "Perluas Semua", "collapse_all": "Tutup Semua", "language": "Bahasa:", "appearance": "Tampilan", "set_options_for_appearance": "Setel opsi tampilan", "rules": "Aturan", "set_rules": "Atur aturan untuk penghapusan data otomatis, dll."}
+
+it-IT:
+{"settings": "Impostazioni", "expand_all": "Espandi tutto", "collapse_all": "Comprimi tutto", "language": "Lingua:", "appearance": "Aspetto", "set_options_for_appearance": "Imposta le opzioni di aspetto", "rules": "Regole", "set_rules": "Imposta le regole per l'eliminazione automatica dei dati, ecc."}
+
+ja-JP:
+{"settings": "設定", "expand_all": "すべて展開", "collapse_all": "すべて折りたたむ", "language": "言語：", "appearance": "外観", "set_options_for_appearance": "外観オプションを設定", "rules": "ルール", "set_rules": "データの自動削除などのルールを設定する。"}
+
+ko-KR:
+{"settings": "설정", "expand_all": "모두 펼치기", "collapse_all": "모두 접기", "language": "언어:", "appearance": "외관", "set_options_for_appearance": "외관 옵션 설정", "rules": "규칙", "set_rules": "자동 데이터 삭제 등에 대한 규칙 설정."}
+
+lv-LV:
+{"settings": "Iestatījumi", "expand_all": "Izvērst visu", "collapse_all": "Sakļaut visu", "language": "Valoda:", "appearance": "Izskats", "set_options_for_appearance": "Iestatiet izskata opcijas", "rules": "Noteikumi", "set_rules": "Iestatiet noteikumus automātiskai datu dzēšanai utt."}
+
+lt-LT:
+{"settings": "Nustatymai", "expand_all": "Išskleisti viską", "collapse_all": "Sutraukti viską", "language": "Kalba:", "appearance": "Išvaizda", "set_options_for_appearance": "Nustatyti išvaizdos parinktis", "rules": "Taisyklės", "set_rules": "Nustatykite taisykles automatiniam duomenų trynimui, ir t.t."}
+
+no-NO:
+{"settings": "Innstillinger", "expand_all": "Utvid alt", "collapse_all": "Kollaps alt", "language": "Språk:", "appearance": "Utseende", "set_options_for_appearance": "Angi utseendealternativer", "rules": "Regler", "set_rules": "Angi regler for automatisk sletting av data osv."}
+
+nb-NO:
+{"settings": "Innstillinger", "expand_all": "Utvid alt", "collapse_all": "Kollaps alt", "language": "Språk:", "appearance": "Utseende", "set_options_for_appearance": "Angi utseendealternativer", "rules": "Regler", "set_rules": "Angi regler for automatisk sletting av data osv."}
+
+fa-IR:
+{"settings": "تنظیمات", "expand_all": "همه را گسترش بدهید", "collapse_all": "همه را کاهش دهید", "language": "زبان:", "appearance": "ظاهر", "set_options_for_appearance": "تنظیم گزینه های ظاهر", "rules": "قوانین", "set_rules": "تعیین قوانین برای حذف خودکار داده ها و غیره."}
+
+pl-PL:
+{"settings": "Ustawienia", "expand_all": "Rozwiń wszystko", "collapse_all": "Zwiń wszystko", "language": "Język:", "appearance": "Wygląd", "set_options_for_appearance": "Ustaw opcje wyglądu", "rules": "Zasady", "set_rules": "Ustaw zasady automatycznego usuwania danych itp."}
+
+pt-PT:
+{"settings": "Definições", "expand_all": "Expandir tudo", "collapse_all": "Recolher tudo", "language": "Idioma:", "appearance": "Aparência", "set_options_for_appearance": "Definir opções de aparência", "rules": "Regras", "set_rules": "Definir regras para a eliminação automática de dados, etc."}
+
+pa-IN:
+{"settings": "ਸੈਟਿੰਗਾਂ", "expand_all": "ਸਭ ਵਧਾਓ", "collapse_all": "ਸਭ ਘੱਟਾਓ", "language": "ਭਾਸ਼ਾ:", "appearance": "ਸੁਰੱਖਿਆ", "set_options_for_appearance": "ਸੁਰੱਖਿਆ ਚੋਣਾਂ ਸੈਟ ਕਰੋ", "rules": "ਨਿਯਮ", "set_rules": "ਆਟੋਮੈਟਿਕ ਡਾਟਾ ਮਿਟਾਉਣ ਲਈ ਨਿਯਮ ਸੈਟ ਕਰੋ, ਆਦਿ।"}
+
+ro-RO:
+{"settings": "Setări", "expand_all": "Extindeți tot", "collapse_all": "Comprimați tot", "language": "Limba:", "appearance": "Aspect", "set_options_for_appearance": "Setați opțiunile de aspect", "rules": "Reguli", "set_rules": "Setați regulile pentru ștergerea automată a datelor etc."}
+
+sr-RS:
+{"settings": "Подешавања", "expand_all": "Прошири све", "collapse_all": "Скупи све", "language": "Језик:", "appearance": "Изглед", "set_options_for_appearance": "Подесите опције за изглед", "rules": "Правила", "set_rules": "Подесите правила за аутоматско брисање података итд."}
+
+sk-SK:
+{"settings": "Nastavenia", "expand_all": "Rozbaliť všetko", "collapse_all": "Zbalit vše", "language": "Jazyk:", "appearance": "Vzhľad", "set_options_for_appearance": "Nastaviť možnosti vzhľadu", "rules": "Pravidlá", "set_rules": "Nastaviť pravidlá pre automatické vymazávanie dát atď."}
+
+sl-SI:
+{"settings": "Nastavitve", "expand_all": "Razširi vse", "collapse_all": "Strni vse", "language": "Jezik:", "appearance": "Videz", "set_options_for_appearance": "Nastavite možnosti videza", "rules": "Pravila", "set_rules": "Nastavite pravila za samodejno brisanje podatkov itd."}
+
+es-ES:
+{"settings": "Configuración", "expand_all": "Expandir todo", "collapse_all": "Contraer todo", "language": "Idioma:", "appearance": "Apariencia", "set_options_for_appearance": "Establecer opciones de apariencia", "rules": "Reglas", "set_rules": "Establecer reglas para la eliminación automática de datos, etc."}
+
+sv-SE:
+{"settings": "Inställningar", "expand_all": "Expandera alla", "collapse_all": "Kollapsa alla", "language": "Språk:", "appearance": "Utseende", "set_options_for_appearance": "Ange alternativ för utseende", "rules": "Regler", "set_rules": "Ange regler för automatisk datarensning osv."}
+
+th-TH:
+{"settings": "การตั้งค่า", "expand_all": "ขยายทั้งหมด", "collapse_all": "ยุบทั้งหมด", "language": "ภาษา:", "appearance": "ลักษณะ", "set_options_for_appearance": "ตั้งค่าตัวเลือกลักษณะ", "rules": "กฎ", "set_rules": "ตั้งกฎสำหรับการลบข้อมูลโดยอัตโนมัติ เป็นต้น"}
+
+tr-TR:
+{"settings": "Ayarlar", "expand_all": "Tümünü genişlet", "collapse_all": "Tümünü daralt", "language": "Dil:", "appearance": "Görünüm", "set_options_for_appearance": "Görünüm seçeneklerini ayarla", "rules": "Kurallar", "set_rules": "Otomatik veri silme vb. için kuralları belirleyin."}
+
+uk-UA:
+{"settings": "Налаштування", "expand_all": "Розгорнути все", "collapse_all": "Згорнути все", "language": "Мова:", "appearance": "Зовнішній вигляд", "set_options_for_appearance": "Встановити параметри вигляду", "rules": "Правила", "set_rules": "Встановити правила для автоматичного видалення даних тощо."}
+
+vi-VN:
+{"settings": "Cài đặt", "expand_all": "Mở rộng tất cả", "collapse_all": "Thu gọn tất cả", "language": "Ngôn ngữ:", "appearance": "Giao diện", "set_options_for_appearance": "Đặt tùy chọn giao diện", "rules": "Quy tắc", "set_rules": "Đặt quy tắc cho việc xóa dữ liệu tự động, v.v."}
